@@ -3,6 +3,7 @@
 
 
 ## Deployed Contracts / Hash
+ npx oz compile --solc-version=0.6.12 --optimizer on --evm-version istanbul
 
 - SushiToken - 
 - MasterChef - 
